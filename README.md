@@ -39,7 +39,7 @@ Stores employee login and logout details.
 
 This project includes examples of the following SQL functions:
 
-### 🕒 TIME Functions
+### TIME Functions
 - `EXTRACT()`
 - `TIMESTAMPDIFF()`
 Used to calculate login hour and total working hours.
