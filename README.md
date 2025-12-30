@@ -1,7 +1,7 @@
 # AI-ML_Week-4-Assignment
-SQL Window function Assignment
 
-# SQL Window Functions Assignment
+
+## SQL Window Functions Assignment
 
 ## Project Overview
 This repository demonstrates the usage of **SQL Window Functions** using two sample tables.  
